@@ -2,6 +2,6 @@
 <p>Codes done</p>
 <p>Python level:</p>
 
->[6 kyu](/python/6%20kyu/Questions.md)
+- [6 kyu](/python/6%20kyu/Questions.md)
 
  
