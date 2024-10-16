@@ -1,4 +1,4 @@
-# 6 kyu - 
+# 6 kyu - Delete occurrences of an element if it occurs more than n times
 ## LINK
 https://www.codewars.com/kata/554ca54ffa7d91b236000023
 
