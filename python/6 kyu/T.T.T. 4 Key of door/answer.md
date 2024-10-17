@@ -42,8 +42,4 @@ should return "24680"
 
 ## My kata answer
 
-[find_key.py](/python/6%20kyu/T.T.T.%204%20Key%20of%20door/find_key.py)
-
-## Solution
-
-https://www.codewars.com/kata/57530135aeb792ba42000620/solutions/python
+[Link of my solution](https://www.codewars.com/kata/reviews/670cf8baa1a9843ffb65a6ae/groups/670e7f6ae09976f960ae6510)
