@@ -3,3 +3,4 @@ Python codes of 6 kyu
 - [Stop gninnipS My sdroW!](/python/6%20kyu/Stop%20gninnipS%20My%20sdroW!/answer.md)
 - [Mexican Wave](/python/6%20kyu/Mexican%20Wave/answer.md)
 - [Crazed Templating](/python/6%20kyu/Crazed%20Templating/answer.md)
+- [Persistent Bugger](/python/6%20kyu/Crazed%20Templating/answer.md)

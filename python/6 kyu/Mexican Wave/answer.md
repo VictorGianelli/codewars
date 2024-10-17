@@ -25,7 +25,3 @@ wave("hello") => ["Hello", "hEllo", "heLlo", "helLo", "hellO"]
 ## My kata answer
 
 [wave.py](/python/6%20kyu/Mexican%20Wave/wave.py)
-
-## Solution
-
-https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/solutions/python

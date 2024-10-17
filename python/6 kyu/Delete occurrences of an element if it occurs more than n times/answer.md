@@ -14,7 +14,3 @@ With list ```[20,37,20,21]``` and number 1, the result would be ```[20,37,21]```
 ## My kata answer
 
 [delete_nth](/python/6%20kyu/Delete%20occurrences%20of%20an%20element%20if%20it%20occurs%20more%20than%20n%20times/delete_nth.py)
-
-## Solution
-
-https://www.codewars.com/kata/554ca54ffa7d91b236000023/solutions/python
