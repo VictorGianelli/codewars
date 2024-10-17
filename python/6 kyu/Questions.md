@@ -4,3 +4,4 @@ Python codes of 6 kyu
 - [Mexican Wave](/python/6%20kyu/Mexican%20Wave/answer.md)
 - [Crazed Templating](/python/6%20kyu/Crazed%20Templating/answer.md)
 - [Persistent Bugger](/python/6%20kyu/Crazed%20Templating/answer.md)
+- [Grouped by commas](/python/6%20kyu/Crazed%20Templating/answer.md)
