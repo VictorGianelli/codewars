@@ -8,5 +8,5 @@ This repository was made just for study and improve my development skills
 <p>Python code level:</p>
 
 - [6 kyu](/python/6%20kyu/Questions.md)
-
+- [5 kyu](/python/5%20kyu/Questions.md)
  
